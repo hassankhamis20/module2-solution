@@ -15,10 +15,7 @@ body{
     padding: 8px;
     
 }
-.parent {
-    display: flex;
-    flex-direction:row;
-}
+
 .maindiv{
     border:3px black solid;
     margin: 10px;
